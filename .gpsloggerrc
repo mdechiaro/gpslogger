@@ -1,0 +1,10 @@
+# config for gpslogger
+
+[mysql]
+user = root
+passwd = secret_password
+host = localhost
+db_name = gps
+
+[android]
+aid = 1029482109jeflkjasdf
